@@ -1,0 +1,10 @@
+# User-specific files
+*.opt
+*.bootinfo_guids
+
+# Build results
+*.compileinfo
+*.bootinfo
+*.~u
+*.compileinfo
+*.Device.Application.xml
